@@ -1,42 +1,42 @@
 export const projects = [
   {
-    title: 'MERN Memories',
+    title: 'E-Commerce',
     description:
-      "Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives.",
+      "E-Commerce website built with React and Next.js. It's a simple e-commerce website that allows users to buy and sell products.",
     image: '/images/1.png',
     tags: ['Mongo', 'Express', 'React', 'Node'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    source: 'https://github.com/Linh777GKOG/SS-E-Commerce',
+    visit: 'https://ss-e-commerce.vercel.app/',
     id: 0,
   },
   {
-    title: 'E-Commerce',
+    title: 'Food-Delivery',
     description:
-      "While building it you're going to learn many advanced React & JavaScript topics, as well as how to use Stripe for card transactions. On top of that, at the end of the video, you will have this unique and complex webshop app that you will be able to add to your portfolio. And trust me, e-commerce applications are impressive.",
+      "Food-Delivery website built with React and Next.js. It's a simple food delivery website that allows users to order food.",
     image: '/images/2.png',
     tags: ['React', 'JavaScript'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    source: 'https://github.com/Linh777GKOG/Foodapp',
+    visit: 'https://foodapp-green.vercel.app/',
     id: 1,
   },
   {
-    title: 'WebRTC App',
+    title: 'Gym-Fitness',
     description:
-      "This is a code repository for the corresponding YouTube video. In this tutorial, we're going to build and deploy a React Video Chat Application using WebRTC.",
+      "Gym-Fitness website built with React and Next.js. It's a simple gym and fitness website that allows users to book a gym session.",
     image: '/images/3.jpg',
     tags: ['React', 'WebRTC'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    source: 'https://github.com/Linh777GKOG/Gym_Website',
+    visit: 'https://linh777gkog.github.io/Gym_fitness/',
     id: 2,
   },
   {
-    title: 'Unichat',
+    title: "Bob's A Wuss",
     description:
-      'This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application',
+      "Bob's A Wuss is a website built with React and Next.js. It's a simple website that allows users to buy and sell products.",
     image: '/images/4.jpg',
     tags: ['React', 'ChatEngine', 'Firebase'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    source: 'https://github.com/Linh777GKOG/Bobawuss',
+    visit: 'https://bobawuss.vercel.app/',
     id: 3,
   },
 ];
