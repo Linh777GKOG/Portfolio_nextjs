@@ -2,4 +2,4 @@
 
 [Portfolio Website](https://linh777.vercel.app/)
 
-![Image](portfolio.png)
+![](portfolio.png)
