@@ -2,4 +2,4 @@
 
 [Portfolio Website](https://linh777.vercel.app/)
 
-![](/Portfolio_nextjs/public/images/Portfolio.png)
+![](https://raw.githubusercontent.com/Linh777GKOG/Portfolio_nextjs/master/public/images/Portfolio.PNG)
